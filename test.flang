@@ -1,0 +1,7 @@
+let pi be 3.1415
+let radius be 5.0
+let diameter be (* 2.0 radius)
+let area be (* pi radius radius)
+let number-of-brothers be 3.0
+print area 2 times
+print number-of-brothers
